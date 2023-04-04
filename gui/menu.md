@@ -2,7 +2,7 @@
 
 - [**Home**](https://github.com/lunardao/ui_daohaus/blob/master/gui/home.md)
 - [**Manifesto**](https://wiki.lunardao.net/manifesto.html)  
-- [**Stake**](<onboarder page.)
+- [**Stake**](<link to the onboarder page>)
 
 - [ ] I have read LunarDAO [Manifesto](https://wiki.lunardao.net/manifesto.html). 
 - [ ] I have read LunarDAO [Whitepaper](https://github.com/lunardao/dao).
